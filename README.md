@@ -1,0 +1,148 @@
+<h1 align="center">Hi 👋, I'm Jonathan</h1>
+
+- 🔭 I’m currently working on [stuff](https://github.com/jhalt/stuff).
+
+- 💬 You can chat with or ask me about **cryptography, mathematics, computer security,** or **game anticheat**.
+
+- 📫 You can email me at **jhalt** [at] **hey** [dot] **com**.
+
+<p align="center">
+<a href="https://twitter.com/itsjhalt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="itsjhalt" height="20" width="20" /></a>
+</p>
+
+### PGP
+If you are contacting me regarding a security issue, please encrypt your communications using PGP.
+
+<details>
+  <summary><strong>PGP Public Key</strong></summary>
+  
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+=oJ9M
+-----END PGP PUBLIC KEY BLOCK-----
+```
+</details>
+
+<details>
+  <summary><strong>Key Details</strong></summary>
+
+**Key ID:** 4BF0F8CC
+
+**Key Type:** RSA
+
+**Expires:** 1/20/24
+
+**Key Size:** 4096/4096
+
+**Fingerprint:** 7A01 FAA1 E615 3336 4CB2  43AA A1F5 4E87 4BF0 F8CC
+
+**UserID:** Jonathan Halterman
+
+**Other Information:** This key was generated on a FIPS 140-2 level 3 validated card. This means that physical possession of the access card and its PIN are needed for message decryption.
+</details>
